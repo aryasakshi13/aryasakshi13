@@ -23,11 +23,8 @@
 ## 📊 GitHub Stats
 <!-- These links are the most stable versions for 2026 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryasakshi13&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=aryasakshi13&theme=transparent&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasakshi13&layout=compact&theme=transparent&hide_border=true&title_color=007ACC)
 
 ---
 <div align="center">
