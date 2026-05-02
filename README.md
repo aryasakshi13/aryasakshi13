@@ -49,8 +49,8 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryasakshi13&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryasakshi13&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryasakshi13&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryasakshi13&layout=compact&hide_border=true&title_color=007ACC" alt="Top Langs" height="150" />
 </div>
 
 ---
